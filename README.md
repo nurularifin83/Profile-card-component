@@ -7,7 +7,6 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 ## Table of contents
 
 - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
@@ -16,10 +15,6 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 - [Author](#author)
 
 ## Overview
-
-## The challenge
-
-Your challenge is to build out this profile card component and get it looking as close to the design as possible.
 
 ### Links
 
