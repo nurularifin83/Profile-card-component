@@ -2,7 +2,7 @@
 
 ![Design preview for the Profile card component coding challenge](https://github.com/nurularifin83/Profile-card-component/blob/main/Thumbnail.png)
 
-This is a solution to the [Profile card component](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-bootstrap-8KxICG0TTb). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Profile card component](https://www.frontendmentor.io/solutions/responsive-profile-card-component-using-bootstrap-and-some-custome-css-IXWwYjZ2DX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-bootstrap-8KxICG0TTb)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-profile-card-component-using-bootstrap-and-some-custome-css-IXWwYjZ2DX)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/Profile-card-component/)
 
 ## My process
