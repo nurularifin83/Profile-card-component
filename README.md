@@ -36,7 +36,6 @@ I learn about bootstraps's class like py-5, fs-5, fw-bold, text-muted, col, and 
 ### Useful resources
 
 - [Bootstrap](https://fontawesome.com/) - This helped me to build this theme like Grid and the other thing related to design.
-- [Fontawesome](https://fontawesome.com/) - This is an amazing tools for you to display icon on your site.
 - [Google Fonts](https://fonts.google.com/) - This helped me to change type of font, in this theme i use MONTSERRAT and Fraunces font.
 - [Visual Studio Code](https://code.visualstudio.com/) - This is the most Code editing used by web developer.
 
