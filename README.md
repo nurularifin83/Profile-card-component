@@ -17,6 +17,10 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 ## Overview
 
+## The challenge
+
+Your challenge is to build out this profile card component and get it looking as close to the design as possible.
+
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-bootstrap-8KxICG0TTb)
