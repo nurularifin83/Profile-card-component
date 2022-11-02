@@ -5,6 +5,7 @@
 }
 
 body {
+    height: 100vh;
     font-family: 'Kumbh Sans', sans-serif;
     background: url(/src/media/patterns/bg-pattern-bottom.svg) bottom -600px right no-repeat, url(/src/media/patterns/bg-pattern-top.svg) top -500px left -200px no-repeat;
     background-color: var(--color-darkcyan);
@@ -12,7 +13,6 @@ body {
 
 .card .mt-n20 img {
     border-radius: 50%;
-    transform: translateX(-50%);
     transform: translateY(-50%);
 }
 
@@ -25,17 +25,12 @@ body {
         background-size: cover;
     }
 }
-
-a {
-    color: hsl(245, 75%, 52%);
- }
  
  .footer a{
      text-decoration: none;
-     color: #212529;
+     color: #ffffff;
  }
 
 .btnlink-custome:hover {
-    text-decoration: none;
-    color: hsl(224, 23%, 55%);
+    text-decoration: underline;
 }
