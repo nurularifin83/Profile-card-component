@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     font-family: 'Kumbh Sans', sans-serif;
-    background: url(d230f2ae4f90e4b4c4cd012fbe49847c9710d52b/src/media/patterns/bg-pattern-bottom.svg) bottom -600px right no-repeat, url(/src/media/patterns/bg-pattern-top.svg) top -500px left -200px no-repeat;
+    background: url(/src/media/patterns/bg-pattern-bottom.svg) bottom -600px right no-repeat, url(/src/media/patterns/bg-pattern-top.svg) top -500px left -200px no-repeat;
     background-color: var(--color-darkcyan);
 }
 
