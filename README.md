@@ -43,4 +43,3 @@ I learn about bootstraps's class like py-5, fs-5, fw-bold, text-muted, col, and 
 
 - Website - [Nurul Arifin](https://github.com/nurularifin83)
 - Frontend Mentor - [@nurularifin83](https://www.frontendmentor.io/profile/nurularifin83)
-- Twitter - [@nurularifin803](https://twitter.com/nurularifin803)
